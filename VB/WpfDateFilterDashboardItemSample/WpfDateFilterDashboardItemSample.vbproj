@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -38,6 +38,7 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Sparkline.v19.1.Core" />
     <Reference Include="DevExpress.Dashboard.v19.1.Core" />
     <Reference Include="DevExpress.Dashboard.v19.1.Wpf" />
     <Reference Include="DevExpress.Data.v19.1" />
@@ -46,11 +47,13 @@
     <Reference Include="DevExpress.Mvvm.v19.1" />
     <Reference Include="DevExpress.PivotGrid.v19.1.Core" />
     <Reference Include="DevExpress.Printing.v19.1.Core" />
+    <Reference Include="DevExpress.Office.v19.1.Core" />
     <Reference Include="DevExpress.RichEdit.v19.1.Core" />
     <Reference Include="DevExpress.Xpf.Charts.v19.1" />
     <Reference Include="DevExpress.Xpf.Core.v19.1" />
     <Reference Include="DevExpress.Xpf.Dashboard.v19.1" />
     <Reference Include="DevExpress.Xpf.Docking.v19.1" />
+    <Reference Include="DevExpress.Xpf.Printing.v19.1" />
     <Reference Include="DevExpress.Xpf.Grid.v19.1" />
     <Reference Include="DevExpress.Xpf.Grid.v19.1.Core" />
     <Reference Include="DevExpress.Xpf.Map.v19.1" />
@@ -58,6 +61,9 @@
     <Reference Include="DevExpress.Xpf.PropertyGrid.v19.1" />
     <Reference Include="DevExpress.Xpf.RichEdit.v19.1" />
     <Reference Include="DevExpress.Xpf.TreeMap.v19.1" />
+    <Reference Include="DevExpress.Charts.v19.1.Core" />
+    <Reference Include="DevExpress.XtraCharts.v19.1" />
+    <Reference Include="DevExpress.CodeParser.v19.1" />
     <Reference Include="DevExpress.XtraReports.v19.1" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
