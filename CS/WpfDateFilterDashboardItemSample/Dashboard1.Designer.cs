@@ -137,7 +137,6 @@
             this.dateFilterDashboardItem1.Name = "";
             this.dateFilterDashboardItem1.ParentContainer = this.dashboardItemGroup1;
             this.dateFilterDashboardItem1.ShowCaption = false;
-            this.dateFilterDashboardItem1.VisibleComponents = DevExpress.DashboardCommon.DateFilterComponent.QuickFilters;
             // 
             // dashboardItemGroup1
             // 

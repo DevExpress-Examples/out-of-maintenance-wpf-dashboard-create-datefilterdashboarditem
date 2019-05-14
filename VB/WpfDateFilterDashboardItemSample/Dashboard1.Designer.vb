@@ -125,7 +125,6 @@
 			Me.dateFilterDashboardItem1.Name = ""
 			Me.dateFilterDashboardItem1.ParentContainer = Me.dashboardItemGroup1
 			Me.dateFilterDashboardItem1.ShowCaption = False
-			Me.dateFilterDashboardItem1.VisibleComponents = DevExpress.DashboardCommon.DateFilterComponent.QuickFilters
 			' 
 			' dashboardItemGroup1
 			' 
