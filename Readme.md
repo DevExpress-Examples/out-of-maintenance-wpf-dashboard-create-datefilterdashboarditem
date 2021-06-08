@@ -11,7 +11,7 @@ This example creates a dashboard in code and displays it in the Dashboard contro
 
 ![screenshot](./images/screenshot.png)
 
-API in this example:
+## API
 
 * [DateFilterDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DateFilterDashboardItem?v=19.1) class
 * [ChartDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.ChartDashboardItem) class
@@ -22,8 +22,8 @@ API in this example:
 * [Dashboard.LayoutRoot](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.Dashboard.LayoutRoot) property
 * [DashboardControl](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl) class
 
-**See also:**
+## Documentation
 
 * [WPF Viewer](https://docs.devexpress.com/Dashboard/119813)
-* [Creating Dashboards in the Visual Studio Designer](https://docs.devexpress.com/Dashboard/17519)
+* [Create Dashboards in the Visual Studio Designer](https://docs.devexpress.com/Dashboard/17519)
 * [Dashboard Layout](https://docs.devexpress.com/Dashboard/116693)
